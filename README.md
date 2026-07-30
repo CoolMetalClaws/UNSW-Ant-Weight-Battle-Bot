@@ -21,3 +21,6 @@ Two spikes attached to the drive axels of both wheels, keeping the bot from gett
 - BE1806 1400KV BLDC $19.80
 - BLHELI-S 20A ESC $15
 - 4x N20 Motor 1:10 $8 each ($32)
+
+## Design Onshape Link
+https://cad.onshape.com/documents/25a53636e7b7b41d942e0c22/w/8abc8a63af3d41352a374180/e/e18c3659cf4e695e54e4f741?renderMode=0&uiState=6a6ada9b6d13219b73a69a8a
