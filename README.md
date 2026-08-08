@@ -14,7 +14,7 @@ Two spikes attached to the drive axels of both wheels, keeping the bot from gett
 ## BOM (Bill Of Materials)
 
 - Malenki Nano $49.99 https://botbitz.com.au/collections/electronic-speed-controls/products/malenki-nano
-<img width="97" height="30" alt="image" src="https://github.com/user-attachments/assets/9531107e-2b32-446e-845f-666f6b08989f" />
+
 - Blue PETG CF $22.99 https://siddament.com.au/collections/cf-wood-marble-petg/products/original-blue-petg-cf
 <img width="97" height="30" alt="image" src="https://github.com/user-attachments/assets/01f38dda-37fd-4181-b2d0-c9c24a60f753" />
 - 3x 195mAh 2S LiPo Battery $12 each ($36) https://llamaforge.com/product/195mah_2s_13g_lipo_battery/
