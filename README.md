@@ -9,6 +9,10 @@ This Project features a 150g Antweight battle Battle bot designed for a competio
 The main chassis of the bot with mounts for motors and the malenki nano
 ### - Left and Right wheel Spike
 Two spikes attached to the drive axels of both wheels, keeping the bot from getting stuck on the side and looking cool!
+### - Chassis Cover 
+A lid for the bot to keep its guts inside when its getting beaten up and keep the LiPo from going boom
+### - Weapon Blade
+A drum style vertical weapon that has 2 teeth, a larger one and a smaller one, to add a follow up bite when being hit
 
 ## Wiring Diagram
 
