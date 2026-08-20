@@ -16,21 +16,23 @@ Two spikes attached to the drive axels of both wheels, keeping the bot from gett
 
 ## BOM (Bill Of Materials)
 
-- Malenki Nano $49.99 https://botbitz.com.au/collections/electronic-speed-controls/products/malenki-nano
-
-- Blue PETG CF $22.99 https://siddament.com.au/collections/cf-wood-marble-petg/products/original-blue-petg-cf
-
-- 3x 195mAh 2S LiPo Battery $12 each ($36) https://llamaforge.com/product/195mah_2s_13g_lipo_battery/
-
-- 4x 34mm N20 Wheel $1 each ($4) https://llamaforge.com/product/34mm-n20-wheel-4-6g/
-
-- Screw Switch $8 https://llamaforge.com/product/ant-screw-switch-mini-0-5g/
-
-- BE1806 1400KV BLDC $19.80 https://llamaforge.com/product/be1806-motor-1400kv-25g/
-
-- BLHELI-S 20A ESC $15 https://llamaforge.com/product/blheli-s-20a-esc-1-7g/
-
-- 4x N20 Motor 1:10 $8 each ($32) https://llamaforge.com/product/n20-motor-110-9-7g/
+| Component                | Cost           | Qty | Link                                                                                    |
+|--------------------------|----------------|-----|-----------------------------------------------------------------------------------------|
+| Malenki Nano             | $49.99         | 1x  | https://botbitz.com.au/collections/electronic-speed-controls/products/malenki-nano      |
+|                          |                |     |                                                                                         |
+| Blue PETG CF             | $22.99         | 1x  | https://siddament.com.au/collections/cf-wood-marble-petg/products/original-blue-petg-cf |
+|                          |                |     |                                                                                         |
+| 195mAh 2S LiPo Battery   | $12 each ($36) | 3x  | https://llamaforge.com/product/195mah_2s_13g_lipo_battery/                              |
+|                          |                |     |                                                                                         |
+| 34mm N20 Wheel           | $1 each ($4)   | 4x  | https://llamaforge.com/product/34mm-n20-wheel-4-6g/                                     |
+|                          |                |     |                                                                                         |
+| Screw Switch             | $8             | 1x  | https://llamaforge.com/product/ant-screw-switch-mini-0-5g/                              |
+|                          |                |     |                                                                                         |
+| BE1806 1400KV BLDC Motor | $19.80         | 1x  | https://llamaforge.com/product/be1806-motor-1400kv-25g/                                 |
+|                          |                |     |                                                                                         |
+| BLHELI-S 20A ESC         | $15            | 1x  | https://llamaforge.com/product/blheli-s-20a-esc-1-7g/                                   |
+|                          |                |     |                                                                                         |
+| N20 Motor 1:10           | $8 each ($32)  | 4x  | https://llamaforge.com/product/n20-motor-110-9-7g/                                      |
 
 
 ## Design Onshape Link
