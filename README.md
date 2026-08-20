@@ -1,4 +1,7 @@
 # UNSW-Ant-Weight-Battle-Bot
+
+![image](https://cdn.hackclub.com/01a01cc0-8b5e-7590-99aa-acfbe5a8a3dd/screenshot_2026-08-20_111814.png)
+
 This Project features a 150g Antweight battle Battle bot designed for a competion with a vertical spinner weapon. It has an aggressive front side with prongs that can guide opponents into the weapon. A melenki nano is used as the main control board with N20 motors as the drivers. A BE1806 BLDC is the main weapon motor.
 
 ## Parts
