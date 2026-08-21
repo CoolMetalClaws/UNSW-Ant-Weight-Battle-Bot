@@ -26,9 +26,9 @@ A drum style vertical weapon that has 2 teeth, a larger one and a smaller one, t
 |                          |                |     |                                                                                         |
 | Blue PETG CF             | $22.99         | 1x  | https://siddament.com.au/collections/cf-wood-marble-petg/products/original-blue-petg-cf |
 |                          |                |     |                                                                                         |
-| 195mAh 2S LiPo Battery   | $12 each ($36) | 3x  | https://llamaforge.com/product/195mah_2s_13g_lipo_battery/                              |
+| 195mAh 2S LiPo Battery   | $12 each ($50) | 5x  | https://llamaforge.com/product/195mah_2s_13g_lipo_battery/                              |
 |                          |                |     |                                                                                         |
-| 34mm N20 Wheel           | $1 each ($4)   | 4x  | https://llamaforge.com/product/34mm-n20-wheel-4-6g/                                     |
+| 34mm N20 Wheel           | $1 each ($6)   | 6x  | https://llamaforge.com/product/34mm-n20-wheel-4-6g/                                     |
 |                          |                |     |                                                                                         |
 | Screw Switch             | $8             | 1x  | https://llamaforge.com/product/ant-screw-switch-mini-0-5g/                              |
 |                          |                |     |                                                                                         |
@@ -36,7 +36,7 @@ A drum style vertical weapon that has 2 teeth, a larger one and a smaller one, t
 |                          |                |     |                                                                                         |
 | BLHELI-S 20A ESC         | $15            | 1x  | https://llamaforge.com/product/blheli-s-20a-esc-1-7g/                                   |
 |                          |                |     |                                                                                         |
-| N20 Motor 1:10           | $8 each ($32)  | 4x  | https://llamaforge.com/product/n20-motor-110-9-7g/                                      |
+| N20 Motor 1:10           | $8 each ($48)  | 6x  | https://llamaforge.com/product/n20-motor-110-9-7g/                                      |
 
 
 ## Design Onshape Link
