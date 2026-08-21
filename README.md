@@ -22,7 +22,7 @@ A drum style vertical weapon that has 2 teeth, a larger one and a smaller one, t
 
 | Component                | Cost           | Qty | Link                                                                                    |
 |--------------------------|----------------|-----|-----------------------------------------------------------------------------------------|
-| Malenki Nano             | $49.99         | 1x  | https://botbitz.com.au/collections/electronic-speed-controls/products/malenki-nano      |
+| Malenki Nano             | $44.99         | 1x  | https://botbitz.com.au/collections/electronic-speed-controls/products/malenki-nano      |
 |                          |                |     |                                                                                         |
 | Blue PETG CF             | $22.99         | 1x  | https://siddament.com.au/collections/cf-wood-marble-petg/products/original-blue-petg-cf |
 |                          |                |     |                                                                                         |
