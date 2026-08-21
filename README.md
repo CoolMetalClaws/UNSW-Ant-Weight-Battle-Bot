@@ -39,7 +39,8 @@ A drum style vertical weapon that has 2 teeth, a larger one and a smaller one, t
 | N20 Motor 1:10           | $8 each ($48)  | 6x  | https://llamaforge.com/product/n20-motor-110-9-7g/                                      |
 |                          |                |     |                                                                                         |
 | Jumper T16 Controller    | $35            | 1x  | Second Hand (Will submit reimbursement report after purchase)                           |
-
+|                          |                |     |                                                                                         |
+| M3 Screws Assortment     | $12.99         | 1x  | Purchased before to take measurements (Will submit reimbursement report after purchase) |
 
 
 ## Design Onshape Link
