@@ -9,3 +9,8 @@ While I was waiting for the project to get approved for funding, I decided to ad
 My bot is slightly overweight, around 5 grams over, and I need to drop dead weight, especially from the chassis. I tried hollowing out the front prongs, but this actually increased the weight as it added more walls, meaning a denser design. I then adjusted some slicer settings and thinned the walls of my bot, which got the weight back under the limit. Unfortunately, I would prefer to have some margin as I still need to add hot glue to stick in the motors and the PCB, and my bot is currently 149.8 grams (the limit is 150g).
 
 To solve this issue, I plan to make the blade thinner, which does mean it will have a lesser reach. If anyone has better suggestions to drop weight, pls let me know in the comments since I really would prefer to keep a wider blade.
+
+
+<img width="800" height="490" alt="image" src="https://github.com/user-attachments/assets/4a327e68-bc36-43ec-bee4-049e5d3363a2" />
+
+<img width="800" height="466" alt="image" src="https://github.com/user-attachments/assets/f53b860e-b91a-4bef-bc60-b7ccc4146239" />
