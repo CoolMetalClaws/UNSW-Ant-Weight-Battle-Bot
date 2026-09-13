@@ -2,17 +2,18 @@
 
 ![image](https://cdn.hackclub.com/01a01cc0-8b5e-7590-99aa-acfbe5a8a3dd/screenshot_2026-08-20_111814.png)
 
-This Project features a 150g Antweight battle Battle bot designed for a competion with a vertical spinner weapon. It has an aggressive front side with prongs that can guide opponents into the weapon. A melenki nano is used as the main control board with N20 motors as the drivers. A BE1806 BLDC is the main weapon motor.
+This Project features a 150g Antweight battle Battle bot designed for a competition with a vertical 20,000 RPM spinner weapon. Haven't heard of combat robotics before? It's basically custom RC cars with weapons trying to destroy each other! This bot is my first Antweight bot ever! It features an agressive design with angular features, a powerful vertical rotary weapon, and wide front prongs to guide oponents to the pit! A melenki nano is used as the main control board with N20 motors as the main drive motors, and a BE1806 BLDC is the main weapon motor.
 
 ## Parts
 ### - Chassis
-The main chassis of the bot with mounts for motors and the malenki nano
+The main chassis of the bot with mounts for motors, the malenki nano, the ESC, the battery, and wiring.
+
 ### - Left and Right wheel Spike
-Two spikes attached to the drive axels of both wheels, keeping the bot from getting stuck on the side and looking cool!
+Two spikes attached to the drive axels of both wheels, keeping the bot from getting stuck on the side and looking cool! They rotate along with the wheels.
 ### - Chassis Cover 
 A lid for the bot to keep its guts inside when its getting beaten up and keep the LiPo from going boom
 ### - Weapon Blade
-A drum style vertical weapon that has 2 teeth, a larger one and a smaller one, to add a follow up bite when being hit
+A drum style asymetrical vertical weapon that has 2 teeth and a nasty bite
 
 ## Wiring Diagram
 
