@@ -10,8 +10,16 @@ The main chassis of the bot with mounts for motors, the malenki nano, the ESC, t
 
 ### - Left and Right wheel Spike
 Two spikes attached to the drive axels of both wheels, keeping the bot from getting stuck on the side and looking cool! They rotate along with the wheels.
+
 ### - Chassis Cover 
 A lid for the bot to keep its guts inside when its getting beaten up and keep the LiPo from going boom
+
+### - Front Floor Bumpers
+To allow as much contact as possible with the floor when the bot is tilted slightly forwards. Printed separately to avoid supports and to make it easier to replace.
+
+### - Weapon Struts
+Previously a part of the chassis, the struts were seperated for easier assembly, easier replacement, and quicker prototyping. Another reason was to increase strength along the layer lines by printing the part flat.
+
 ### - Weapon Blade
 A drum style asymetrical vertical weapon that has 2 teeth and a nasty bite
 
